@@ -34,11 +34,10 @@ The dataset contains **10,000 rows** and **13 columns**, representing loan-level
 ## Key Insights and Metrics
 The dashboard highlights several critical financial performance indicators, including:
 
-* **Total Disbursed Amount:** ₹512.4 Crore
-* **Total Repaid Amount:** ₹590.2 Crore
-* **Total Net Profit:** ₹77.8 Crore
-* **Portfolio ROI:** 15.2%
-* **Default Rate:** 4.3%
+* **Total Loan Amount:** ₹5,204M
+* **Total Net Profit:** 2613.4.8 Crore
+* **Portfolio ROI:** 55.88%
+* **Default Rate:** 0.5036%
 
 ## Tools and Technologies Used
 
