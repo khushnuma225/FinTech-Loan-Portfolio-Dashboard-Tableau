@@ -46,8 +46,6 @@ The dashboard highlights several critical financial performance indicators, incl
 * **Microsoft Excel**
 
 ## Dashboard Components
-Dashboard Overview
-https://github.com/khushnuma225/FinTech-Loan-Portfolio-Dashboard-Tableau/blob/main/FinTech%20Loan%20Portfolio%20Dashboard.png
 1. **Portfolio Overview:** KPIs and trend charts
 2. **Risk & Score Analysis:** Default amount vs credit score and score distribution
 3. **Channel Insights:** Channel-wise ROI, loan volume, and default ratio
@@ -55,3 +53,6 @@ https://github.com/khushnuma225/FinTech-Loan-Portfolio-Dashboard-Tableau/blob/ma
 5. **Customer Demographics:** Age and income-based loan segmentation
 
 ## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
+Dashboard Overview
+![FinTech Loan Dashboard Preview](https://github.com/khushnuma225/FinTech-Loan-Portfolio-Dashboard-Tableau/blob/main/FinTech%20Loan%20Portfolio%20Dashboard.png)
