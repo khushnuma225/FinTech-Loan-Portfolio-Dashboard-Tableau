@@ -35,9 +35,9 @@ The dataset contains **10,000 rows** and **13 columns**, representing loan-level
 The dashboard highlights several critical financial performance indicators, including:
 
 * **Total Loan Amount:** ₹5,204M
-* **Total Net Profit:** 2613.4.8 Crore
+* **Total Net Profit:** 2613.14m
 * **Portfolio ROI:** 55.88%
-* **Default Rate:** 0.5036%
+* **Default Rate:** 0.5036M
 
 ## Tools and Technologies Used
 
