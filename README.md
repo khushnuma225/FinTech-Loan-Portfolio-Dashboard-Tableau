@@ -55,4 +55,4 @@ The dashboard highlights several critical financial performance indicators, incl
 ## 🖼️ Dashboard Preview
 ## 🖼️ Dashboard Preview
 Dashboard Overview
-![FinTech Loan Dashboard Preview](https://github.com/khushnuma225/FinTech-Loan-Portfolio-Dashboard-Tableau/blob/main/FinTech%20Loan%20Portfolio%20Dashboard.png)
+![FinTech Loan Dashboard Preview](FinTech_Loan_Portfolio_Dashboard.png)
